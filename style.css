@@ -1,0 +1,16 @@
+body {
+    background: rgb(170, 136, 136);
+    padding: 2vw;
+    font-family: Tahoma;
+    font-size: 3vw;
+}
+
+h1 {
+    background: black;
+    color: #fff;
+    text-align: fixed;
+    padding: 2vw;
+    font-size: 2vw;
+    border-radius: 3px;
+    opacity: .8;
+}
